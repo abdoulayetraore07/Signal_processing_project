@@ -8,11 +8,11 @@ The projects demonstrate practical applications of signal processing techniques 
 ---
 
 ## Features
-✅ **Multi-domain Signal Analysis** - Time and frequency domain processing  
-✅ **Audio Signal Processing** - Noise removal and signal separation  
-✅ **Echo Detection & Removal** - Advanced techniques for echo handling  
-✅ **Image Processing** - Filtering and transformation of image signals  
-✅ **Comprehensive Visualization** - Intuitive visual representation of results  
+ **Multi-domain Signal Analysis** - Time and frequency domain processing  
+ **Audio Signal Processing** - Noise removal and signal separation  
+ **Echo Detection & Removal** - Advanced techniques for echo handling  
+ **Image Processing** - Filtering and transformation of image signals  
+ **Comprehensive Visualization** - Intuitive visual representation of results  
 
 ---
 
