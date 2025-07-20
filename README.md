@@ -1,4 +1,4 @@
-# 🔊 Signal Processing & Treatment Projects
+# Signal Processing & Treatment Projects
 
 ## 📌 Description
 This comprehensive collection includes **three distinct signal processing projects** focusing on various aspects of signal analysis, filtering, and image processing. Each project addresses specific signal processing challenges using MATLAB.
@@ -7,7 +7,7 @@ The projects demonstrate practical applications of signal processing techniques 
 
 ---
 
-## 🛠️ Features
+## Features
 ✅ **Multi-domain Signal Analysis** - Time and frequency domain processing  
 ✅ **Audio Signal Processing** - Noise removal and signal separation  
 ✅ **Echo Detection & Removal** - Advanced techniques for echo handling  
@@ -16,7 +16,7 @@ The projects demonstrate practical applications of signal processing techniques 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 /signal_treatment_project
